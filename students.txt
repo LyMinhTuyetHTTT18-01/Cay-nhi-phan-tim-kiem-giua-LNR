@@ -1,0 +1,60 @@
+187107001
+Le Duy An
+2006
+8.5
+187107002
+Bui Chi Bach
+2006
+7.8
+187107003
+Nguyen Manh Chien
+2006
+8.2
+187107004
+Nguyen Viet Cong
+2006
+7.9
+187107005
+Tran Huy Dung
+2006
+6.1
+187107006
+Nguyen Bach Duong
+2006
+8.7
+187107007
+Nguyen Xuan Kien
+2006
+7.4
+1871070010
+Ta Anh My
+2006
+8.6
+1871070011
+Nguyen The Phuong Nam
+2006
+7.3
+1871070013
+Nguyen Anh Thu
+2006
+8.9
+1871070015
+Ly Minh Tuyet
+2006
+9.0
+1871070016
+Nguyen Thi Thao Van
+2006
+8.5
+1871070017
+Do Duy Van
+2006
+8.0
+1871070018
+Hoang Danh Tu
+2005
+7.5
+1871070019
+Vu Duc Hung
+2005
+9.5
